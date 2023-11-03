@@ -1,6 +1,6 @@
 # C, C++, and Lua Games
 ## C++ OpenGL Pong
-This game was inspired by LearnOpenGL's Breakout game. The game mechanics and physics are a bit different and you will see that the inverted rendering is used here but with different mechanics. A pause state, AI state and fruit drop state were added for fun. A second player was added that uses AI to return the ball each time. User can select AI from the main menu to have two AI players play the game instead.  
+This game was inspired by LearnOpenGL's Breakout game. The game mechanics and physics are a bit different, and you will see that the inverted rendering is used here but with new mechanics. A pause state, AI state and fruit drop state were added for fun. A second player was added that uses AI to return the ball each time. User can select AI from the main menu to have two AI players play the game instead.  
 
 <div style="text-align: center;">
   <p><strong>Watch the YouTube <a href="https://www.youtube.com/watch?v=pD-pY-KDddw" target="_blank">video</a> <strong>or check out the <a href="https://github.com/sheraadams/OpenGL-Pong" target="_blank">code</a>.</strong></p>
