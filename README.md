@@ -25,6 +25,7 @@ Video Link:
 ![Screenshot 2023-01-22 151119](https://user-images.githubusercontent.com/110789514/213938074-7b9eebc6-ce38-4252-a55e-5fea7dfc8469.png)
 
 ## OpenGL Space Shooter
+This is another 2D game programmed in C++ with OpenGL. 
 <div style="text-align: center;">
   <p><strong>Check out the code: <a href="https://github.com/sheraadams/Space-Shooter-Game" target="_blank">OpenGL Space Shooter Game</a>.</strong></p>
 </div>
