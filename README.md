@@ -1,8 +1,16 @@
 # C, C++, and Lua Games
+## C++ OpenGL Pong
+This game was inspired by LearnOpenGL's Breakout game. The game mechanics and physics are a bit different and you will see that the inverted rendering is used here but with different mechanics. A pause state, AI state and fruit drop state were added for fun. A second player was added that uses AI to return the ball each time. User can select AI from the main menu to have two AI players play the game instead.  
 
-## Hatch
-Angry Birds style game programmed in lua and Love2d with updated clean graphics.  Music by Timothy Davis. 
+<div style="text-align: center;">
+  <p><strong>Watch the YouTube <a href="https://www.youtube.com/watch?v=pD-pY-KDddw" target="_blank">video</a> <strong>or check out the <a href="https://github.com/sheraadams/OpenGL-Pong" target="_blank">code</a>.</strong></p>
+</div>
 
+![S3](https://user-images.githubusercontent.com/110789514/211897662-295f3fce-f186-4402-bbb7-642dbc6867e4.png)
+
+## Lua Hatch Game
+
+This is an angry Birds style game programmed in lua and Love2d with updated clean graphics. Music is by Timothy Davis. See stock image credits in the references. 
 
 <div style="text-align: center;">
   <p><strong>See on YouTube: <a href="https://www.youtube.com/watch?v=0hBLOj6h1SY" target="_blank">Hatch Game</a>.</strong></p>
@@ -12,8 +20,9 @@ Angry Birds style game programmed in lua and Love2d with updated clean graphics.
 
 ![Screenshot 2023-01-22 151521](https://user-images.githubusercontent.com/110789514/213938165-8b327e72-0e4a-4b1e-b6f4-de8590891057.png)
 
-## Bird Game 
-This is a funny game programmed in C++ and OpenGL.
+## Lua Bird Game 
+
+This is a funny game that I created and programmed in C++ and OpenGL. 
 
 Video Link:
 
@@ -24,8 +33,9 @@ Video Link:
 ![Screenshot 2023-01-22 151133](https://user-images.githubusercontent.com/110789514/213938071-9a8f3f20-2e2a-4aed-8eaa-45efe50ed572.png)
 ![Screenshot 2023-01-22 151119](https://user-images.githubusercontent.com/110789514/213938074-7b9eebc6-ce38-4252-a55e-5fea7dfc8469.png)
 
-## OpenGL Space Shooter
-This is another 2D game programmed in C++ with OpenGL. 
+## Cpp OpenGL Space Shooter
+
+This is another 2D game programmed in C++ with OpenGL. It is a classic arcade style space shooter game. You can find the link to the repo below.
 <div style="text-align: center;">
   <p><strong>Check out the code: <a href="https://github.com/sheraadams/Space-Shooter-Game" target="_blank">OpenGL Space Shooter Game</a>.</strong></p>
 </div>
@@ -35,7 +45,7 @@ This is another 2D game programmed in C++ with OpenGL.
 ## References
 
 <div style="text-align: center;">
-  <p><strong> Here's a link to the image and code references: <a href="https://github.com/sheraadams/C-and-Lua-Games/edit/main/references.md" target="_blank">References</a>.</strong></p>
+  <p><strong> Here's a link to the image and code <a href="https://github.com/sheraadams/C-and-Lua-Games/edit/main/references.md" target="_blank">references.</a>.</strong></p>
 </div>
 
 <div style="text-align: center;">
