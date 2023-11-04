@@ -23,6 +23,10 @@ Video Link:
 
 ![Screenshot 2023-01-22 151133](https://user-images.githubusercontent.com/110789514/213938071-9a8f3f20-2e2a-4aed-8eaa-45efe50ed572.png)
 ![Screenshot 2023-01-22 151119](https://user-images.githubusercontent.com/110789514/213938074-7b9eebc6-ce38-4252-a55e-5fea7dfc8469.png)
+## OpenGL Pong
+This is a [Pong-Inspired game](https://github.com/sheraadams/OpenGL-Pong) in C++ using OpenGL and GLFW.
+
+![Pong](https://github.com/sheraadams/sheraadams/assets/110789514/5cf85874-ac9a-4819-a72f-2dff47ec44f8)
 
 ## OpenGL Space Shooter
 <div style="text-align: center;">
